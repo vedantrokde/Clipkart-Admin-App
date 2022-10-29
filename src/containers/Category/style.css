@@ -1,0 +1,66 @@
+.modal-header{
+    padding: 5px 15px;
+    background-color: #333;
+}
+
+.modal-title{
+    font-size: 18px;
+    color: #fff;    
+}
+
+.model-content{
+    margin-top: 60px;
+}
+
+.modal-footer{
+    padding: 5px 15px;
+}
+
+.btn-primary{
+    background-color: #333;
+    color: #fff;
+    font-size: 14px;
+    border: 0;
+    border-radius: 5px;
+    margin: 0 10px;
+}
+
+.btn-primary:hover{
+    background-color: #fff;
+    color: #333;
+}
+
+.btn-danger{
+    font-size: 14px;
+}
+
+hr{
+    margin: 5px 5px;
+    margin-bottom: 10px;
+}
+
+h5{
+    text-decoration: 'underline';
+    font-size: 16px;
+}
+
+.rct-node-icon{
+    display: none;
+}
+
+.actionBtn{
+    display: flex;
+    align-items: center;
+}
+
+.actionBtn > button{
+    margin: 0 5px;
+    font-size: 14px;
+    border-radius: 5px;
+    box-shadow: 1px 1px rgb(77, 61, 61);
+}
+
+.actionBtn > span{
+    padding: 2px;
+    text-align: center;
+}
